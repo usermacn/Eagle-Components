@@ -1,2 +1,2 @@
 # Eagle-Components
-This repository contains libraries for Autodesk Eagle. 
+This repository contains a few additional PCB prototyping libraries for Autodesk Eagle. 
